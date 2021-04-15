@@ -31,4 +31,3 @@ All done!
 ### Important Notes:
 1.	The `Print` tab should never be manually updated, as it will automatically be handled by the script.
 2.	Do not change the name of either spreadsheet as that will cause the code not to run.
-3.	If printing immediately after editing, hold on for the printed list to stop visibly moving before printing.
