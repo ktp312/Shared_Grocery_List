@@ -20,7 +20,7 @@ A pop out window should appear; Select `Advanced` and then `Go to grocery printe
 <br>A second popup page will show up; select `Allow`
 
 ### Step 5:
-Go to `Tiggers` found on the menu on the left of the page. It has an alarm clock icon.
+Go to `Triggers` found on the menu on the left of the page. It has an alarm clock icon.
 <br>Select add trigger, found on the bottom right.
 <br>Under `Select event type` choose `On change` and then save.
   
